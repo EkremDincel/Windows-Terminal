@@ -1,2 +1,3 @@
 # Windows-Terminal
-Windows terminal uygulaması için oluşturduğum json dosyam.
+
+My config for the Windows Terminal
